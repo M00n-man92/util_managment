@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740421396570",
+    "project_id": "hulumapp",
+    "storage_bucket": "hulumapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740421396570:android:50ea50db0417483c059063",
+        "android_client_info": {
+          "package_name": "co.HulumAppmarkOne.crud1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740421396570-1uekdf50gdd4n3h0fhegctkpn5g6rab7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7e-Tw_ZvuCni3M9Xg29beo5HiNi89_og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740421396570-1uekdf50gdd4n3h0fhegctkpn5g6rab7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
